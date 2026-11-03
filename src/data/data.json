@@ -1,0 +1,662 @@
+[
+  {
+    "id": "car-01",
+    "name": "VinFast VF8 Plus",
+    "brand": "VinFast",
+    "category": "Xe điện",
+    "pricePerDay": 1300000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Điện",
+    "rating": 4.9,
+    "reviewsCount": 118,
+    "tripsCount": 245,
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1536700503339-1e4b06520771?auto=format&fit=crop&w=1000&q=80",
+    "description": "SUV thuần điện phân khúc D đẳng cấp, động cơ mạnh mẽ 402 mã lực, quãng đường di chuyển 471 km mỗi lần sạc. Trang bị trợ lý ảo thông minh và hệ thống lái tự động cấp độ 2.",
+    "features": [
+      "Hệ thống lái ADAS cấp độ 2",
+      "Màn hình giải trí 15.6 inch",
+      "Cửa sổ trời toàn cảnh",
+      "Ghế da chỉnh điện tích hợp sấy/làm mát",
+      "HUD hiển thị kính lái"
+    ],
+    "specifications": {
+      "engine": "Dual Motor Electric AWD",
+      "horsepower": "402 HP",
+      "consumption": "19.5 kWh/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-02",
+    "name": "Toyota Fortuner Legender 2.8L",
+    "brand": "Toyota",
+    "category": "SUV 7 chỗ",
+    "pricePerDay": 1600000,
+    "seats": 7,
+    "transmission": "Tự động",
+    "fuel": "Dầu (Diesel)",
+    "rating": 4.8,
+    "reviewsCount": 94,
+    "tripsCount": 310,
+    "location": "Quận 7, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1000&q=80",
+    "description": "Mẫu SUV 7 chỗ gầm cao trứ danh, bền bỉ và tiết kiệm nhiên liệu cho các chuyến du lịch gia đình xa hoặc đường trường khó nhằn. Phiên bản Legender cao cấp nhất.",
+    "features": [
+      "Gói an toàn Toyota Safety Sense",
+      "Hệ thống âm thanh 11 loa JBL",
+      "Camera 360 độ",
+      "Cốp mở rảnh tay",
+      "Dẫn động 2 cầu 4WD"
+    ],
+    "specifications": {
+      "engine": "2.8L Diesel Turbo",
+      "horsepower": "201 HP",
+      "consumption": "7.8L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-03",
+    "name": "Kia Carnival Signature 2.2D",
+    "brand": "Kia",
+    "category": "MPV cao cấp",
+    "pricePerDay": 2100000,
+    "seats": 7,
+    "transmission": "Tự động",
+    "fuel": "Dầu (Diesel)",
+    "rating": 5.0,
+    "reviewsCount": 142,
+    "tripsCount": 420,
+    "location": "Bình Thạnh, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=1000&q=80",
+    "description": "Dòng xe đa dụng cao cấp chuyên biệt dành cho thương gia và gia đình. Không gian nội thất thương gia siêu rộng với hàng ghế VIP độc lập chỉnh điện ngả lưng tối đa.",
+    "features": [
+      "Ghế thương gia Ottoman chỉnh điện",
+      "Màn hình kép 12.3 inch",
+      "2 cửa sổ trời độc lập",
+      "Dàn âm thanh 12 loa Bose",
+      "Cửa lùa thông minh"
+    ],
+    "specifications": {
+      "engine": "Smartstream D2.2",
+      "horsepower": "199 HP",
+      "consumption": "7.0L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-04",
+    "name": "Mazda CX-5 2.0 Premium",
+    "brand": "Mazda",
+    "category": "SUV 5 chỗ",
+    "pricePerDay": 1100000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.9,
+    "reviewsCount": 160,
+    "tripsCount": 380,
+    "location": "Cầu Giấy, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1000&q=80",
+    "description": "Thiết kế KODO gợi cảm cuốn hút, cảm giác lái thể thao đầm chắc cùng hàng loạt trang bị tiện nghi đỉnh cao phân khúc C-SUV đô thị.",
+    "features": [
+      "Gói an toàn i-Activsense",
+      "Màn hình HUD hiển thị kính lái",
+      "Hệ thống loa Bose 10 loa",
+      "Cửa sổ trời",
+      "Apple CarPlay không dây"
+    ],
+    "specifications": {
+      "engine": "SkyActiv-G 2.0L",
+      "horsepower": "154 HP",
+      "consumption": "7.2L/100km",
+      "year": 2023
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-05",
+    "name": "Ford Everest Titanium+ 4x4",
+    "brand": "Ford",
+    "category": "SUV 7 chỗ",
+    "pricePerDay": 1800000,
+    "seats": 7,
+    "transmission": "Tự động",
+    "fuel": "Dầu (Diesel)",
+    "rating": 4.9,
+    "reviewsCount": 87,
+    "tripsCount": 260,
+    "location": "Hải Châu, Đà Nẵng",
+    "image": "https://images.unsplash.com/photo-1551830820-330a71b99659?auto=format&fit=crop&w=1000&q=80",
+    "description": "Vua địa hình trong phân khúc SUV gia đình cỡ trung với hộp số tự động 10 cấp, động cơ Bi-Turbo dũng mãnh và 6 chế độ lái tùy chỉnh.",
+    "features": [
+      "Động cơ Bi-Turbo dũng mãnh",
+      "Màn hình cảm ứng dọc 12 inch SYNC 4",
+      "Cửa sổ trời toàn cảnh",
+      "Hỗ trợ đỗ xe tự động 2.0",
+      "Hệ thống dẫn động 4WD thông minh"
+    ],
+    "specifications": {
+      "engine": "2.0L Bi-Turbo Diesel",
+      "horsepower": "210 HP",
+      "consumption": "8.0L/100km",
+      "year": 2024
+    },
+    "isAvailable": false
+  },
+  {
+    "id": "car-06",
+    "name": "Mercedes-Benz C300 AMG",
+    "brand": "Mercedes-Benz",
+    "category": "Xe sang",
+    "pricePerDay": 2800000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 5.0,
+    "reviewsCount": 75,
+    "tripsCount": 190,
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1200&q=80",
+    "description": "Biểu tượng sedan thể thao hạng sang trẻ trung của dòng họ Ngôi sao ba cánh. Ngoại hình AMG thể thao sắc sảo cùng dàn đèn Digital Light thông minh bậc nhất thế giới.",
+    "features": [
+      "Gói ngoại nội thất AMG Line",
+      "Đèn pha Digital Light",
+      "Hệ thống âm thanh vòm Burmester 3D",
+      "Màn hình OLED 11.9 inch",
+      "Đèn viền nội thất 64 màu"
+    ],
+    "specifications": {
+      "engine": "2.0L Turbo Mild-Hybrid",
+      "horsepower": "258 HP",
+      "consumption": "7.5L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-07",
+    "name": "Hyundai Santa Fe Calligraphy 2.5T",
+    "brand": "Hyundai",
+    "category": "SUV 7 chỗ",
+    "pricePerDay": 1750000,
+    "seats": 7,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.8,
+    "reviewsCount": 63,
+    "tripsCount": 180,
+    "location": "Thanh Xuân, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1000&q=80",
+    "description": "Thế hệ hoàn toàn mới với phong cách khối hộp phiêu lưu hiện đại, không gian cốp khổng lồ và nội thất da Nappa sang trọng bậc nhất phân khúc.",
+    "features": [
+      "Hai màn hình cong Panoramic 12.3 inch",
+      "Hai bàn sạc không dây",
+      "Gói an toàn Hyundai Smartsense",
+      "Cần số điện tử sau vô lăng",
+      "Hệ thống khử trùng tia UV-C"
+    ],
+    "specifications": {
+      "engine": "2.5L Turbo Smartstream",
+      "horsepower": "281 HP",
+      "consumption": "9.1L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-08",
+    "name": "BMW 330i M Sport",
+    "brand": "BMW",
+    "category": "Xe sang",
+    "pricePerDay": 2900000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.9,
+    "reviewsCount": 58,
+    "tripsCount": 140,
+    "location": "Đống Đa, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=1000&q=80",
+    "description": "Cỗ máy thuần chất lái thể thao cho các tín đồ tốc độ thực thụ. Tỷ lệ phân bổ trọng lượng hoàn hảo 50:50 cùng hệ thống treo thích ứng M danh tiếng.",
+    "features": [
+      "Gói khí động học M Sport",
+      "Hệ thống phanh hiệu năng cao M",
+      "Màn hình cong Curved Display với iDrive 8",
+      "Âm thanh Harman Kardon",
+      "Vi sai thể thao M Sport"
+    ],
+    "specifications": {
+      "engine": "2.0L BMW TwinPower Turbo",
+      "horsepower": "258 HP",
+      "consumption": "6.8L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-09",
+    "name": "VinFast VF9 Plus",
+    "brand": "VinFast",
+    "category": "Xe điện",
+    "pricePerDay": 2500000,
+    "seats": 6,
+    "transmission": "Tự động",
+    "fuel": "Điện",
+    "rating": 5.0,
+    "reviewsCount": 82,
+    "tripsCount": 195,
+    "location": "Quận 2, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1000&q=80",
+    "description": "SUV điện cỡ lớn Full-size hạng E đầu bảng của thương hiệu Việt. Cấu hình 6 chỗ cơ trưởng thương gia massage đa điểm, pin khủng cho hành trình xuyên Việt 600km.",
+    "features": [
+      "Ghế cơ trưởng hàng 2 với tính năng massage/thông gió",
+      "Màn hình trung tâm 15.6 inch sắc nét",
+      "Cửa hít tự động",
+      "Trần kính toàn cảnh chống nhiệt cao cấp",
+      "Dẫn động 4 bánh toàn thời gian AWD"
+    ],
+    "specifications": {
+      "engine": "Dual Electric Motor",
+      "horsepower": "402 HP",
+      "consumption": "23.0 kWh/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-10",
+    "name": "Honda CR-V e:HEV RS Hybrid",
+    "brand": "Honda",
+    "category": "SUV 5 chỗ",
+    "pricePerDay": 1400000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Hybrid",
+    "rating": 4.9,
+    "reviewsCount": 68,
+    "tripsCount": 210,
+    "location": "Tân Bình, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=1200&q=80",
+    "description": "Phiên bản Hybrid đỉnh cao tiết kiệm nhiên liệu chỉ 3.4L/100km đô thị, vận hành êm ái như xe điện nhưng không lo về trạm sạc. Thiết kế RS thể thao sắc sảo.",
+    "features": [
+      "Động cơ hybrid 2 motor điện",
+      "Gói hỗ trợ an toàn Honda SENSING",
+      "Hệ thống kết nối Honda CONNECT",
+      "12 loa Bose cao cấp",
+      "Cửa sổ trời đóng mở điện"
+    ],
+    "specifications": {
+      "engine": "2.0L e:HEV Hybrid",
+      "horsepower": "204 HP",
+      "consumption": "3.4L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-11",
+    "name": "Toyota Camry 2.5Q",
+    "brand": "Toyota",
+    "category": "Sedan",
+    "pricePerDay": 1500000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.8,
+    "reviewsCount": 115,
+    "tripsCount": 350,
+    "location": "Hoàn Kiếm, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=1200&q=80",
+    "description": "Dòng sedan cỡ D lịch lãm dành cho doanh nhân và công tác cao cấp. Hàng ghế sau chỉnh điện ngả lưng cùng cụm điều khiển cảm ứng tựa tay chuyên nghiệp.",
+    "features": [
+      "Hàng ghế sau ngả lưng chỉnh điện",
+      "Bảng điều khiển cảm ứng hàng ghế sau",
+      "Hệ thống cảnh báo điểm mù BSM",
+      "9 loa JBL trung thực",
+      "Cửa sổ trời chỉnh điện"
+    ],
+    "specifications": {
+      "engine": "2.5L Dynamic Force",
+      "horsepower": "207 HP",
+      "consumption": "7.1L/100km",
+      "year": 2023
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-12",
+    "name": "Mitsubishi Xforce Ultimate",
+    "brand": "Mitsubishi",
+    "category": "SUV 5 chỗ",
+    "pricePerDay": 950000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.8,
+    "reviewsCount": 52,
+    "tripsCount": 130,
+    "location": "Sơn Trà, Đà Nẵng",
+    "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1200&q=80",
+    "description": "Mẫu B-SUV thiết kế tương lai ấn tượng, khoảng sáng gầm 222 mm cao nhất phân khúc thích ứng linh hoạt đường phố ngập nước và địa hình gồ ghề.",
+    "features": [
+      "Dàn âm thanh Dynamic Sound Yamaha Premium",
+      "4 chế độ lái kể cả đường ngập nước Wet Mode",
+      "Màn hình đôi 12.3 inch",
+      "Hệ thống kiểm soát vào cua chủ động AYC",
+      "Cốp điện rảnh tay"
+    ],
+    "specifications": {
+      "engine": "1.5L MIVEC",
+      "horsepower": "105 HP",
+      "consumption": "6.2L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-13",
+    "name": "Ford Ranger Raptor 2024",
+    "brand": "Ford",
+    "category": "Bán tải",
+    "pricePerDay": 2200000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 5.0,
+    "reviewsCount": 44,
+    "tripsCount": 110,
+    "location": "Quận 9, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1559416523-140ddc3d238c?auto=format&fit=crop&w=1000&q=80",
+    "description": "Siêu bán tải hiệu năng cao sở hữu giảm xóc FOX 2.5 inch Live Valve danh tiếng, chế độ lái Baja off-road nức nở cùng ống xả van chủ động.",
+    "features": [
+      "Động cơ 3.0L V6 EcoBoost Twin-Turbo",
+      "Giảm xóc FOX 2.5 inch Live Valve",
+      "Khóa vi sai trước và sau điện tử",
+      "7 chế độ lái địa hình",
+      "Ống xả chủ động tùy chọn âm thanh"
+    ],
+    "specifications": {
+      "engine": "3.0L V6 Twin-Turbo",
+      "horsepower": "392 HP",
+      "consumption": "11.5L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-14",
+    "name": "Porsche Macan GTS",
+    "brand": "Porsche",
+    "category": "Xe sang",
+    "pricePerDay": 4500000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 5.0,
+    "reviewsCount": 38,
+    "tripsCount": 85,
+    "location": "Quận 1, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1000&q=80",
+    "description": "Chiếc xe thể thao đội lốt SUV đích thực từ Stuttgart. Tăng tốc từ 0-100 km/h trong 4.3 giây với gói Sport Chrono và tiếng gầm gừ kích thích mọi giác quan.",
+    "features": [
+      "Gói kích hoạt thể thao Sport Chrono",
+      "Hệ thống treo khí nén chủ động PASM",
+      "Ống xả thể thao Porsche Sport Exhaust",
+      "Nội thất da Alcantara cao cấp",
+      "Mâm thể thao 21 inch RS Spyder"
+    ],
+    "specifications": {
+      "engine": "2.9L V6 Twin-Turbo",
+      "horsepower": "434 HP",
+      "consumption": "10.3L/100km",
+      "year": 2024
+    },
+    "isAvailable": false
+  },
+  {
+    "id": "car-15",
+    "name": "VinFast VF5 Plus",
+    "brand": "VinFast",
+    "category": "Xe điện",
+    "pricePerDay": 650000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Điện",
+    "rating": 4.7,
+    "reviewsCount": 180,
+    "tripsCount": 520,
+    "location": "Gò Vấp, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1000&q=80",
+    "description": "Mẫu ô tô điện đô thị quốc dân cực kỳ tiết kiệm chi phí, nhỏ gọn dễ luồn lách và quay đầu trong các ngõ phố đông đúc.",
+    "features": [
+      "Chi phí thuê và nạp điện siêu tiết kiệm",
+      "Cảnh báo điểm mù và phương tiện cắt ngang",
+      "Điều hòa tự động tích hợp lọc bụi mịn",
+      "Kết nối điện thoại thông minh",
+      "Camera lùi sắc nét"
+    ],
+    "specifications": {
+      "engine": "Electric Motor FWD",
+      "horsepower": "134 HP",
+      "consumption": "12.5 kWh/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-16",
+    "name": "Hyundai Tucson 1.6T Turbo",
+    "brand": "Hyundai",
+    "category": "SUV 5 chỗ",
+    "pricePerDay": 1250000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.8,
+    "reviewsCount": 92,
+    "tripsCount": 270,
+    "location": "Ba Đình, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1000&q=80",
+    "description": "Ngoại hình Parametric Jewel độc đáo, không gian nội thất mở rộng rãi dẫn đầu phân khúc cùng động cơ tăng áp Smartstream 1.6T mượt mà.",
+    "features": [
+      "Hệ dẫn động 4 bánh HTRAC",
+      "Cần số điện tử nút bấm",
+      "Hệ thống an toàn Hyundai SmartSense",
+      "Ghế lái và phụ chỉnh điện sưởi/làm mát",
+      "Cửa sổ trời toàn cảnh Panorama"
+    ],
+    "specifications": {
+      "engine": "1.6L T-GDi Turbo",
+      "horsepower": "180 HP",
+      "consumption": "7.5L/100km",
+      "year": 2023
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-17",
+    "name": "Lexus RX350 Premium",
+    "brand": "Lexus",
+    "category": "Xe sang",
+    "pricePerDay": 3800000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 5.0,
+    "reviewsCount": 49,
+    "tripsCount": 115,
+    "location": "Tây Hồ, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1609521263047-f8f205293f24?auto=format&fit=crop&w=1000&q=80",
+    "description": "Đỉnh cao sự êm ái, cách âm tĩnh lặng và đẳng cấp doanh nhân Nhật Bản. Khả năng vận hành mượt mà như nhung kết hợp thiết kế mặt ca lăng con suốt không viền thế hệ mới.",
+    "features": [
+      "Gói an toàn cao cấp LSS+ 3.0",
+      "Hệ thống âm thanh Mark Levinson 21 loa",
+      "Màn hình 14 inch cảm ứng",
+      "Nội thất da Semi-Aniline thượng hạng",
+      "Cửa hít và cốp điện đá chân"
+    ],
+    "specifications": {
+      "engine": "2.4L Turbo AWD",
+      "horsepower": "275 HP",
+      "consumption": "8.8L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-18",
+    "name": "Toyota Corolla Cross 1.8V",
+    "brand": "Toyota",
+    "category": "SUV 5 chỗ",
+    "pricePerDay": 1050000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.8,
+    "reviewsCount": 105,
+    "tripsCount": 390,
+    "location": "Ngũ Hành Sơn, Đà Nẵng",
+    "image": "https://images.unsplash.com/photo-1581540222194-0def2dda95b8?auto=format&fit=crop&w=1000&q=80",
+    "description": "Chiếc xe gầm cao đô thị bền bỉ, rộng rãi và giữ giá tốt nhất. Được yêu thích bởi sự tiện dụng, an toàn cao và chi phí vận hành cực kỳ hợp lý.",
+    "features": [
+      "Gói an toàn Toyota Safety Sense",
+      "Camera 360 toàn cảnh",
+      "Cửa sổ trời chỉnh điện",
+      "Màn hình giải trí 9 inch hỗ trợ Apple CarPlay",
+      "Cảnh báo điểm mù"
+    ],
+    "specifications": {
+      "engine": "1.8L 2ZR-FE",
+      "horsepower": "138 HP",
+      "consumption": "6.8L/100km",
+      "year": 2023
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-19",
+    "name": "Kia Sorento Signature AWD",
+    "brand": "Kia",
+    "category": "SUV 7 chỗ",
+    "pricePerDay": 1650000,
+    "seats": 7,
+    "transmission": "Tự động",
+    "fuel": "Dầu (Diesel)",
+    "rating": 4.8,
+    "reviewsCount": 78,
+    "tripsCount": 230,
+    "location": "Phú Nhuận, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1549399542-7e3f8b79c341?auto=format&fit=crop&w=1000&q=80",
+    "description": "SUV 7 chỗ phong cách hiện đại đậm chất châu Âu, sở hữu động cơ máy dầu Smartstream tiết kiệm vượt trội cùng nhiều tiện nghi thông minh.",
+    "features": [
+      "Cụm cần số núm xoay điện tử",
+      "Hiển thị điểm mù trên cụm đồng hồ BVM",
+      "Hệ thống loa Bose 12 loa",
+      "Cửa sổ trời Panorama",
+      "Đèn viền Mood Light đa sắc"
+    ],
+    "specifications": {
+      "engine": "2.2L Diesel Smartstream",
+      "horsepower": "198 HP",
+      "consumption": "6.5L/100km",
+      "year": 2023
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-20",
+    "name": "Honda Civic RS",
+    "brand": "Honda",
+    "category": "Sedan",
+    "pricePerDay": 1200000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.9,
+    "reviewsCount": 88,
+    "tripsCount": 275,
+    "location": "Long Biên, Hà Nội",
+    "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=1000&q=80",
+    "description": "Chiếc sedan hạng C thể thao danh tiếng với khả năng phản hồi vô lăng chuẩn xác từng milimet, ghế bọc da lộn chỉ đỏ đậm chất đường đua.",
+    "features": [
+      "Động cơ VTEC Turbo mạnh mẽ",
+      "Gói Honda SENSING",
+      "Dàn âm thanh 12 loa Bose",
+      "Chế độ lái Sport cùng lẫy chuyển số vô lăng",
+      "Đề nổ từ xa bằng chìa khóa"
+    ],
+    "specifications": {
+      "engine": "1.5L VTEC Turbo",
+      "horsepower": "176 HP",
+      "consumption": "6.3L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-21",
+    "name": "Mazda 3 Sport Luxury",
+    "brand": "Mazda",
+    "category": "Sedan",
+    "pricePerDay": 900000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.8,
+    "reviewsCount": 110,
+    "tripsCount": 340,
+    "location": "Quận 10, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1542282088-72c9c27ed0cd?auto=format&fit=crop&w=1000&q=80",
+    "description": "Thiết kế đoạt giải xe đẹp nhất thế giới (World Car Design of the Year). Không gian nội thất bọc da tinh xảo tối giản như các dòng xe hạng sang Đức.",
+    "features": [
+      "Màn hình HUD hiển thị kính lái",
+      "Phanh tay điện tử Auto Hold",
+      "Hệ thống kiểm soát gia tốc GVC Plus",
+      "7 túi khí an toàn",
+      "Cửa sổ trời"
+    ],
+    "specifications": {
+      "engine": "1.5L Skyactiv-G",
+      "horsepower": "110 HP",
+      "consumption": "5.9L/100km",
+      "year": 2023
+    },
+    "isAvailable": true
+  },
+  {
+    "id": "car-22",
+    "name": "Peugeot 408 GT",
+    "brand": "Peugeot",
+    "category": "SUV 5 chỗ",
+    "pricePerDay": 1500000,
+    "seats": 5,
+    "transmission": "Tự động",
+    "fuel": "Xăng",
+    "rating": 4.9,
+    "reviewsCount": 42,
+    "tripsCount": 98,
+    "location": "Quận 3, TP. Hồ Chí Minh",
+    "image": "https://images.unsplash.com/photo-1542362567-b07e54358753?auto=format&fit=crop&w=1000&q=80",
+    "description": "SUV Coupe lai Fastback phong cách Pháp cực kỳ phá cách và thời thượng. Khoang lái i-Cockpit 3D tương lai cho trải nghiệm công nghệ vượt bậc.",
+    "features": [
+      "Khoang lái i-Cockpit đồng hồ 3D",
+      "Đèn pha Matrix LED hình móng vuốt sư tử",
+      "Âm thanh Focal Hi-Fi cao cấp",
+      "Ghế massage đa điểm hàng ghế trước",
+      "Mâm thể thao Monolithe 20 inch"
+    ],
+    "specifications": {
+      "engine": "1.6L PureTech Turbo",
+      "horsepower": "218 HP",
+      "consumption": "7.0L/100km",
+      "year": 2024
+    },
+    "isAvailable": true
+  }
+]
